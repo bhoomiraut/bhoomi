@@ -5,7 +5,7 @@ Bhoomi (means Earth), rooted in the ground, my journey is about staying connecte
 at Ahilyanagar, India, with a goal to make cloud learning with AWS accessible for students who lacked exposure and support. I focused on cloud awarenes, and a confident leadership building from non- metro areas.
 
 ## 1st Ever AWS Cloud Club's Cross-Regional Event
-### Indo- HongKong "How To Become A Next Cloud Next Cloud Leader"
+### Indo- HongKong "How To Become A Next Cloud Leader"
 Being a captain, I organised this event with AWS Cloud Clubs HongKong and being a speaker, I inspire the students for next cohort of AWS Cloud Clubs: [Indo-HongKong](https://www.linkedin.com/posts/sanjivani-aws-cloud-club_aws-cloudcomputing-awscloudclub-ugcPost-7261043700175110144-sJLx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 
 ## AWS Cloud Discovery Day
