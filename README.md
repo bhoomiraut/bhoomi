@@ -44,9 +44,9 @@ and there are few more sessions on our official meetup page of [AWS Cloud Clubs 
 ## Aditional Leadership Highlights
 ### First AWS Cloud Club Captain
 at Ahilyanager; 
-* I initiated and inaugurated AWS Cloud Club at my institute with a successful conduction of a hybrid event.
-* I organized, "AWS Power Hour of Cloud Camp" - a weekend series by different AWS Experts and employees on topics including Infrastructure, Containers, and Artificial Intelligence with AWS.
-* I coordinated weekend series of sessions on Cloud & DevOps, delivered by an AWS Employee, to enable technical exposure to rural students.
+* I initiated and inaugurated AWS Cloud Club at my institute with a successful conduction of a hybrid event: [Inaugural](https://www.linkedin.com/posts/activity-7190069235430092800-tceI?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
+* I organized, "AWS Power Hour of Cloud Camp" - a weekend series by different AWS Experts and employees on topics including Infrastructure, Containers, and Artificial Intelligence with AWS in collaboration with AWS Cloud Club at IIPS: [AWS Power Hour of Cloud Camps](https://www.linkedin.com/posts/activity-7227497232986427392-A0AO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
+* I coordinated weekend series of sessions on Cloud & DevOps, delivered by an AWS Employee, to enable technical exposure to rural students: [weekend sessions](https://www.linkedin.com/posts/activity-7235971091830034432-Sd0J?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 * I shared a stage with fellow AWS Cloud Club Captains at AWS Community Day Ahmedabad - Data Analytics Edition 2025: [Captain's Journey](https://www.linkedin.com/posts/activity-7343153963732520961-iIhT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE) 
 
 ## AWS New Voices 2025
@@ -68,7 +68,7 @@ I got selected for the AWS New Voices 2025 speaker training program (APJC) by AW
 
 ## Blogs
 I am learning from a community, community teaches me a lot, so I believe in giving back to the community in possible ways. I started knowledge sharing through my Blogs. These blogs helped especially students from non- metro areas to start with clarity and step by step guidance.
-* From Architecture to Deployment - Building the Image Editing App with AI For Bharat - I attended the AI For Bharat session on image editing app, organised by AWS Women In Tech- Chennai Chapter and shared my insights in this blog.
+* From Architecture to Deployment - Building the Image Editing App with AI For Bharat - I attended the AI For Bharat session on image editing app, organised by AWS Women In Tech- Chennai Chapter and shared my insights in this blog. Featured by: [AWS UG for Women In Tech India](https://www.linkedin.com/posts/aws-ug-for-women-in-tech-india_hosted-the-%F0%9D%90%80%F0%9D%90%96%F0%9D%90%92-%F0%9D%90%80%F0%9D%90%88-%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB-%F0%9D%90%81%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%AD-ugcPost-7411103543094521857-msj9?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 * How Amazon Q Helped Turn an Idea Into a Working Website - I worked alongside an ex-AWS employee and I used Amazon Q for a website developement.
 * Hey! Next Cloud Leader - Yes, You. - This Blog I published for studnet leaders to guide them for next AWS Cloud Club Captain's cohort.
 * Building "Business: Build You Empire" Using Amazon Q and Python - As part of a Amazon Q challenge organised by AWS, I participated in a challenge and built a business (monopoly) game.
