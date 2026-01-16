@@ -30,7 +30,7 @@ This workhop best reflected on the initiative "For The Students, By The Students
 
 ## Expert Speaker at AWS Cloud Clubs IGDTUW, Delhi
 I delivered a talk at a premier women-only technical univeristy #womenintech on Cloud Computing with AWS and AWS Console account creation with a demo on AWS Amplify: [Introduction to Cloud Computing and AWS](https://www.linkedin.com/posts/activity-7316447479850246145-btC2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
-[![Watch the video]([https://img.youtube.com/vi/SSw-BDhWGUc/0.jpg)](https://www.youtube.com/watch?v=SSw-BDhWGUc](https://youtu.be/gxOnb5bBink?si=RKZfl-K6N9vrSon8) \
+[![Watch the video](https://img.youtube.com/vi/gxOnb5bBink/0.jpg)](https://www.youtube.com/watch?v=gxOnb5bBink)) \
 Click to watch on **YouTube**
 
 ## AWS Community Day Pune 2025 - AI/ML Edition volunteer
