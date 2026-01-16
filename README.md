@@ -1,3 +1,6 @@
+<img width="785" height="421" alt="image" src="https://github.com/user-attachments/assets/87028239-7f93-4242-b130-f27b9e0af52e" /> \
+AWS Cloud Club Captain 24'
+
 # Hello Impact Makers👋, Bhoomi here.
 Bhoomi (means Earth), rooted in the ground, my journey is about staying connected to the roots while empowering rural talents to grow beyond boundaries and reach clouds.
 
@@ -9,19 +12,22 @@ at Ahilyanagar, India, with a goal to make cloud learning with AWS accessible fo
 Being a captain, I organised this event with AWS Cloud Clubs HongKong and being a speaker, I inspire the students for next cohort of AWS Cloud Clubs: [Indo-HongKong](https://www.linkedin.com/posts/sanjivani-aws-cloud-club_aws-cloudcomputing-awscloudclub-ugcPost-7261043700175110144-sJLx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 
 ## AWS Cloud Discovery Day
-after 10-11 months of constant awareness creation despite limited resources, me and my team organized AWS Cloud Discovery Day with AWS User Group Pune.
-Testamonial of perseverance was those overwhelming 600+ students participating. I contributed as a organiser and a speaker, introducing cloud clubs, alongside expert technical talks by Mr. Vishal Alhat and Mr. Sankalp Paranjpe and an academia-industry panel discussion: [AWS Cloud Discovery Day](https://www.linkedin.com/posts/activity-7294018327054626816-O6Ak?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
+after constant awareness creation despite limited resources, me and my team organized AWS Cloud Discovery Day with [AWS User Group Pune](https://www.linkedin.com/company/aws-user-group-pune/posts).
+Testamonial of perseverance was those overwhelming 600+ students participating. I contributed as a organiser and a speaker, introducing cloud clubs, alongside expert technical talks by [Mr. Vishal Alhat](https://www.linkedin.com/in/vishalalhat/) and [Mr. Sankalp Sandeep Paranjpe](https://www.linkedin.com/in/sankalp-s-paranjpe/) and an academia-industry panel discussion: [AWS Cloud Discovery Day](https://www.linkedin.com/posts/activity-7294018327054626816-O6Ak?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
+#### Guidance of Mr. Vishal Alhat, at every step of this event was cruicial in making this moment a success and worthwhile, as our continues efforts and perseverance finally lead to an impact in a rural region. 
+> This is really an inspiration for rural students and rural empowerment.
 
 ## For The Students, By The Students
 ### initiative launch
-to address the experts scarcity in rural areas and not to stop for it, I launched the "For The Students, By The Students" initiative. Here, I mold myself into various roles like, a captain (organizer), planner, volunteer, advisor, a speaker and most importantly, a learner (student). Built a peer-led learning with a theme "From Rural To Global with AWS": [Initiative Launch for rural empowerment](https://www.linkedin.com/posts/activity-7300950921520328704-uuwb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
+to address the experts scarcity in rural areas and not to stop for it, I launched the "For The Students, By The Students" initiative. Here, I mold myself into various roles like, a captain (organizer), planner, volunteer, advisor, a speaker and most importantly, a learner (student). Built a peer-led learning with a theme "From Rural To Global with AWS": [Building Cloud-Ready Minds With AWS](https://www.linkedin.com/posts/activity-7300950921520328704-uuwb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 
 ## AWS Generative AI Hands-on Workshop
 this workhop best reflected on the initiative "For The Students, By The Students", where no faculty, no expert, only students teaching and learning from each others collaboratively. I delivered a hands-on workshop on Generative AI and found students engaging and summarizing the session to support peer-learning: [AWS Generative AI Hand-On Workshop](https://www.linkedin.com/posts/activity-7312083640908148736-G54C?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 
 ## Expert Speaker at AWS Cloud Clubs IGDTUW, Delhi
 I delivered a talk at a premier women-only technical univeristy #womenintech on Cloud Computing with AWS and AWS Console account creation with a demo on AWS Amplify: [Introduction to Cloud Computing and AWS](https://www.linkedin.com/posts/activity-7316447479850246145-btC2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
-[![Watch the video](https://img.youtube.com/vi/SSw-BDhWGUc/0.jpg)](https://www.youtube.com/watch?v=SSw-BDhWGUc)
+[![Watch the video](https://img.youtube.com/vi/SSw-BDhWGUc/0.jpg)](https://www.youtube.com/watch?v=SSw-BDhWGUc) \
+AWS Cloud Clubs at IGDTUW on YouTube, , click to watch 
 
 ## AWS Community Day Pune 2025 - AI/ML Edition volunteer
 ### member - AWS User Group Pune
@@ -30,6 +36,16 @@ I contributed as a volunteer for AWS Community Day Pune 2025 - AI/ML Edition, by
 ## AWS Community Day Pune 2025 – Annual Edition volunteer
 Once again, I contributed for AWS Community Day, being a volunteer in August 2025: [AWS Community Day volunteer](https://www.linkedin.com/posts/aws-user-group-pune_acdpune25-awsugpune-awscommunityday-activity-7377182342676627457--ala?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 
+## **AWS Community Days Pune 2025 - Testamonial to my Leadership and Contributions**
+> Beyond the volunteeering, I also played a role of leadership and coordination.
+### I lead a team
+and I took the ownership of: 
+* Social Media and Digital Content: designing and publishing the pre-event, live-event, and the post-event content to boost the event and spread across the community to get benefitted.
+* Sponsor Requirement Track: managed and coordinated the sponsor requirements, aligned to the event goals.
+* Spearker Coordination: communicating with guest speakers, to ensure the smooth scheduling and live event execution.
+* Cross-team collaboration: working with organizers, and the volunteers to maintain the proper event flow.
+* #### I worked in a AWS Community with organizers like Mr. Vishal Alhat and Mr. Dheeraj Choudhary, whose collaborative leadership made my contribution more meaningful, and there my efforts were truly worth it.
+ 
 ## AWS Alpha Capsule Course
 After college examinations, in vacations, I contributed to delivering the sessions on AWS Services and beginner-friendly hands-on projects and to its testamonial, we got 3 students AWS Certified Cloud Practitioner at the same time: [Testamonials of AWS Certified Cloud Practitioner](https://www.linkedin.com/posts/sanjivani-aws-cloud-club_aws-cloudcomputing-cloudpractitioner-ugcPost-7377433958260625408-Kx_X?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 
