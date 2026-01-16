@@ -14,6 +14,8 @@ Being a captain, I organised this event with AWS Cloud Clubs HongKong and being 
 ## AWS Cloud Discovery Day
 after constant awareness creation despite limited resources, me and my team organized AWS Cloud Discovery Day with [AWS User Group Pune](https://www.linkedin.com/company/aws-user-group-pune/posts).
 Testamonial of perseverance was those overwhelming 600+ students participating. I contributed as a organiser and a speaker, introducing cloud clubs, alongside expert technical talks by [Mr. Vishal Alhat](https://www.linkedin.com/in/vishalalhat/) and [Mr. Sankalp Sandeep Paranjpe](https://www.linkedin.com/in/sankalp-s-paranjpe/) and an academia-industry panel discussion: [AWS Cloud Discovery Day](https://www.linkedin.com/posts/activity-7294018327054626816-O6Ak?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6537b4ed-6083-4698-a8fb-2c4d90b4efc3" />
+
 #### Guidance of Mr. Vishal Alhat, at every step of this event was cruicial in making this moment a success and worthwhile, as our continues efforts and perseverance finally lead to an impact in a rural region. 
 > This is really an inspiration for rural students and rural empowerment.
 
@@ -44,6 +46,8 @@ and I took the ownership of:
 * Sponsor Requirement Track: managed and coordinated the sponsor requirements, aligned to the event goals.
 * Spearker Coordination: communicating with guest speakers, to ensure the smooth scheduling and live event execution.
 * Cross-team collaboration: working with organizers, and the volunteers to maintain the proper event flow.
+ <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/d8adc820-baec-4575-b044-aa8ea2927c0a" />
+
 * #### I worked in a AWS Community with organizers like Mr. Vishal Alhat and Mr. Dheeraj Choudhary, whose collaborative leadership made my contribution more meaningful, and there my efforts were truly worth it.
  
 ## AWS Alpha Capsule Course
@@ -63,7 +67,9 @@ at Ahilyanager;
 * I initiated and inaugurated AWS Cloud Club at my institute with a successful conduction of a hybrid event: [Inaugural](https://www.linkedin.com/posts/activity-7190069235430092800-tceI?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 * I organized, "AWS Power Hour of Cloud Camp" - a weekend series by different AWS Experts and employees on topics including Infrastructure, Containers, and Artificial Intelligence with AWS in collaboration with AWS Cloud Club at IIPS: [AWS Power Hour of Cloud Camps](https://www.linkedin.com/posts/activity-7227497232986427392-A0AO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 * I coordinated weekend series of sessions on Cloud & DevOps, delivered by an AWS Employee, to enable technical exposure to rural students: [weekend sessions](https://www.linkedin.com/posts/activity-7235971091830034432-Sd0J?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
-* I shared a stage with fellow AWS Cloud Club Captains at AWS Community Day Ahmedabad - Data Analytics Edition 2025: [Captain's Journey](https://www.linkedin.com/posts/activity-7343153963732520961-iIhT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE) 
+* I shared a stage with fellow AWS Cloud Club Captains at AWS Community Day Ahmedabad - Data Analytics Edition 2025: [Captain's Journey](https://www.linkedin.com/posts/activity-7343153963732520961-iIhT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
+                                                                  <img width="4160" height="2762" alt="image" src="https://github.com/user-attachments/assets/c56a69c8-db7e-4b94-ae99-5fbefa091c9a" />
+
 
 ## AWS New Voices 2025
 ### A backbone for these initiatives 
