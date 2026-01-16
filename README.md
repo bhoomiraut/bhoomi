@@ -12,7 +12,7 @@ at Ahilyanagar, India, with a goal to make cloud learning with AWS accessible fo
 Being a captain, I organised this event with AWS Cloud Clubs HongKong and being a speaker, I inspire the students for next cohort of AWS Cloud Clubs: [Indo-HongKong](https://www.linkedin.com/posts/sanjivani-aws-cloud-club_aws-cloudcomputing-awscloudclub-ugcPost-7261043700175110144-sJLx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 
 ## AWS Cloud Discovery Day
-After constant awareness creation despite limited resources, me and my team organized AWS Cloud Discovery Day with [AWS User Group Pune](https://www.linkedin.com/company/aws-user-group-pune/posts).
+After constant awareness creation despite limited resources, me and my team organized **AWS Cloud Discovery Day** with [AWS User Group Pune](https://www.linkedin.com/company/aws-user-group-pune/posts).
 Testamonial of perseverance was those overwhelming 600+ students participating. I contributed as a organiser and a speaker, introducing cloud clubs, alongside expert technical talks by [Mr. Vishal Alhat](https://www.linkedin.com/in/vishalalhat/) and [Mr. Sankalp Sandeep Paranjpe](https://www.linkedin.com/in/sankalp-s-paranjpe/) and an academia-industry panel discussion: [AWS Cloud Discovery Day](https://www.linkedin.com/posts/activity-7294018327054626816-O6Ak?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6537b4ed-6083-4698-a8fb-2c4d90b4efc3" />
 
@@ -31,7 +31,7 @@ This workhop best reflected on the initiative "For The Students, By The Students
 ## Expert Speaker at AWS Cloud Clubs IGDTUW, Delhi
 I delivered a talk at a premier women-only technical univeristy #womenintech on Cloud Computing with AWS and AWS Console account creation with a demo on AWS Amplify: [Introduction to Cloud Computing and AWS](https://www.linkedin.com/posts/activity-7316447479850246145-btC2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 [![Watch the video](https://img.youtube.com/vi/SSw-BDhWGUc/0.jpg)](https://www.youtube.com/watch?v=SSw-BDhWGUc) \
-AWS Cloud Clubs at IGDTUW on YouTube, , click to watch 
+Click to watch on **YouTube**
 
 ## AWS Community Day Pune 2025 - AI/ML Edition volunteer
 ### member - AWS User Group Pune
@@ -44,13 +44,13 @@ Once again, I contributed for AWS Community Day, being a volunteer in August 202
 > Beyond the volunteeering, I also played a role of leadership and coordination.
 ### I lead a team
 and I took the ownership of: 
-* Social Media and Digital Content: designing and publishing the pre-event, live-event, and the post-event content to boost the event and spread across the community to get benefitted.
-* Sponsor Requirement Track: managed and coordinated the sponsor requirements, aligned to the event goals.
-* Spearker Coordination: communicating with guest speakers, to ensure the smooth scheduling and live event execution.
-* Cross-team collaboration: working with organizers, and the volunteers to maintain the proper event flow.
+* **Social Media and Digital Content**: designing and publishing the pre-event, live-event, and the post-event content to boost the event and spread across the community to get benefitted.
+* **Sponsor Track Management**: managed and coordinated the sponsor requirements, aligned to the event goals.
+* **Spearker Coordination**: communicating with guest speakers, to ensure the smooth scheduling and live event execution.
+* **Cross-team collaboration**: working with organizers, and the volunteers to maintain the proper event flow.
  <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/d8adc820-baec-4575-b044-aa8ea2927c0a" />
 
-* #### I worked in a AWS Community with organizers, Mr. Vishal Alhat and Mr. Dheeraj Choudhary, whose collaborative leadership made my contribution more meaningful, and there my efforts were truly worth it.
+* #### Worked with AWS Heros and AWS User Group Pune Leaders: Mr. Vishal Alhat and Mr. Dheeraj Choudhary, whose collaborative leadership made my contribution more meaningful, and there my efforts were truly worth it.
  
 ## AWS Alpha Capsule Course
 After college examinations, in vacations, I contributed to delivering the sessions on AWS Services and beginner-friendly hands-on projects and to its testamonial, we got 3 students AWS Certified Cloud Practitioner at the same time: [Testamonials of AWS Certified Cloud Practitioner](https://www.linkedin.com/posts/sanjivani-aws-cloud-club_aws-cloudcomputing-cloudpractitioner-ugcPost-7377433958260625408-Kx_X?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
@@ -71,7 +71,6 @@ at Ahilyanager;
 * I coordinated weekend series of sessions on Cloud & DevOps, delivered by an AWS Employee, to enable technical exposure to rural students: [weekend sessions](https://www.linkedin.com/posts/activity-7235971091830034432-Sd0J?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 * I shared a stage with fellow AWS Cloud Club Captains at AWS Community Day Ahmedabad - Data Analytics Edition 2025: [Captain's Journey](https://www.linkedin.com/posts/activity-7343153963732520961-iIhT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 <img width="4160" height="2762" alt="image" src="https://github.com/user-attachments/assets/c56a69c8-db7e-4b94-ae99-5fbefa091c9a" />
-AWS Community Day Ahmedabad - Data Analytics Edition 2025
 
 ## AWS New Voices 2025
 ### A backbone for these initiatives 
@@ -108,7 +107,6 @@ This is a core story behind how I started contributing to the AWS Community in 2
 ##### This is a reward and feels like: yes we could make it!
 
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/0bc7b33f-476a-4d08-a56e-63b8d2221ac6" />
-AWS Certification Preperation sessions
 
 ### Thank You
 I am grateful to AWS Community, mentors, and supporters who made this path meaningful and looking forward to continue contribution as an active AWS Community Contributor, to inspire others to step-in.
