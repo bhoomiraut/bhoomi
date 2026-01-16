@@ -12,7 +12,7 @@ at Ahilyanagar, India, with a goal to make cloud learning with AWS accessible fo
 Being a captain, I organised this event with AWS Cloud Clubs HongKong and being a speaker, I inspire the students for next cohort of AWS Cloud Clubs: [Indo-HongKong](https://www.linkedin.com/posts/sanjivani-aws-cloud-club_aws-cloudcomputing-awscloudclub-ugcPost-7261043700175110144-sJLx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 
 ## AWS Cloud Discovery Day
-after constant awareness creation despite limited resources, me and my team organized AWS Cloud Discovery Day with [AWS User Group Pune](https://www.linkedin.com/company/aws-user-group-pune/posts).
+After constant awareness creation despite limited resources, me and my team organized AWS Cloud Discovery Day with [AWS User Group Pune](https://www.linkedin.com/company/aws-user-group-pune/posts).
 Testamonial of perseverance was those overwhelming 600+ students participating. I contributed as a organiser and a speaker, introducing cloud clubs, alongside expert technical talks by [Mr. Vishal Alhat](https://www.linkedin.com/in/vishalalhat/) and [Mr. Sankalp Sandeep Paranjpe](https://www.linkedin.com/in/sankalp-s-paranjpe/) and an academia-industry panel discussion: [AWS Cloud Discovery Day](https://www.linkedin.com/posts/activity-7294018327054626816-O6Ak?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6537b4ed-6083-4698-a8fb-2c4d90b4efc3" />
 
@@ -21,10 +21,12 @@ Testamonial of perseverance was those overwhelming 600+ students participating. 
 
 ## For The Students, By The Students
 ### initiative launch
-to address the experts scarcity in rural areas and not to stop for it, I launched the "For The Students, By The Students" initiative. Here, I mold myself into various roles like, a captain (organizer), planner, volunteer, advisor, a speaker and most importantly, a learner (student). Built a peer-led learning with a theme "From Rural To Global with AWS": [Building Cloud-Ready Minds With AWS](https://www.linkedin.com/posts/activity-7300950921520328704-uuwb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
+To address the experts scarcity in rural areas and not to stop for it, I launched the "For The Students, By The Students" initiative. Here, I mold myself into various roles like, a captain (organizer), planner, volunteer, advisor, a speaker and most importantly, a learner (student). Built a peer-led learning with a theme "From Rural To Global with AWS": [Building Cloud-Ready Minds With AWS](https://www.linkedin.com/posts/activity-7300950921520328704-uuwb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
+
+<img width="1049" height="554" alt="image" src="https://github.com/user-attachments/assets/7018b746-7a4b-4d44-a16a-9051f931845c" />
 
 ## AWS Generative AI Hands-on Workshop
-this workhop best reflected on the initiative "For The Students, By The Students", where no faculty, no expert, only students teaching and learning from each others collaboratively. I delivered a hands-on workshop on Generative AI and found students engaging and summarizing the session to support peer-learning: [AWS Generative AI Hand-On Workshop](https://www.linkedin.com/posts/activity-7312083640908148736-G54C?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
+This workhop best reflected on the initiative "For The Students, By The Students", where no faculty, no expert, only students teaching and learning from each others collaboratively. I delivered a hands-on workshop on Generative AI and found students engaging and summarizing the session to support peer-learning: [AWS Generative AI Hand-On Workshop](https://www.linkedin.com/posts/activity-7312083640908148736-G54C?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 
 ## Expert Speaker at AWS Cloud Clubs IGDTUW, Delhi
 I delivered a talk at a premier women-only technical univeristy #womenintech on Cloud Computing with AWS and AWS Console account creation with a demo on AWS Amplify: [Introduction to Cloud Computing and AWS](https://www.linkedin.com/posts/activity-7316447479850246145-btC2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
@@ -48,14 +50,14 @@ and I took the ownership of:
 * Cross-team collaboration: working with organizers, and the volunteers to maintain the proper event flow.
  <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/d8adc820-baec-4575-b044-aa8ea2927c0a" />
 
-* #### I worked in a AWS Community with organizers like Mr. Vishal Alhat and Mr. Dheeraj Choudhary, whose collaborative leadership made my contribution more meaningful, and there my efforts were truly worth it.
+* #### I worked in a AWS Community with organizers, Mr. Vishal Alhat and Mr. Dheeraj Choudhary, whose collaborative leadership made my contribution more meaningful, and there my efforts were truly worth it.
  
 ## AWS Alpha Capsule Course
 After college examinations, in vacations, I contributed to delivering the sessions on AWS Services and beginner-friendly hands-on projects and to its testamonial, we got 3 students AWS Certified Cloud Practitioner at the same time: [Testamonials of AWS Certified Cloud Practitioner](https://www.linkedin.com/posts/sanjivani-aws-cloud-club_aws-cloudcomputing-cloudpractitioner-ugcPost-7377433958260625408-Kx_X?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 
 ## AWS Beta Capsule Course
 ### Global Certification Preperation Series
-as soon as I completed my AWS Certified Cloud Practitioner certification, I along with a new captain, we launched the course, a focused early-morning, before college hours, daily dedicated 50 students started travelling for the Cerification Preperation. Here are few meetup sessisons: 
+As soon as I completed my AWS Certified Cloud Practitioner certification, I along with a new captain, we launched the course, a focused early-morning, before college hours, daily dedicated 50 students started travelling for the Cerification Preperation. Here are few meetup sessisons: 
 * [Day 01](https://www.meetup.com/aws-cloud-club-sanjivani-college-of-engineering/events/311514468/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=416618014)
 * [Day 02](https://www.meetup.com/aws-cloud-club-sanjivani-college-of-engineering/events/311529813/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=416618014)
 * [Day 03](https://www.meetup.com/aws-cloud-club-sanjivani-college-of-engineering/events/311539741/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=416618014) \
@@ -68,8 +70,8 @@ at Ahilyanager;
 * I organized, "AWS Power Hour of Cloud Camp" - a weekend series by different AWS Experts and employees on topics including Infrastructure, Containers, and Artificial Intelligence with AWS in collaboration with AWS Cloud Club at IIPS: [AWS Power Hour of Cloud Camps](https://www.linkedin.com/posts/activity-7227497232986427392-A0AO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 * I coordinated weekend series of sessions on Cloud & DevOps, delivered by an AWS Employee, to enable technical exposure to rural students: [weekend sessions](https://www.linkedin.com/posts/activity-7235971091830034432-Sd0J?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
 * I shared a stage with fellow AWS Cloud Club Captains at AWS Community Day Ahmedabad - Data Analytics Edition 2025: [Captain's Journey](https://www.linkedin.com/posts/activity-7343153963732520961-iIhT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlbbqwBURy054KT61oIoiRTs9E8dRHE3zE)
-                                                                  <img width="4160" height="2762" alt="image" src="https://github.com/user-attachments/assets/c56a69c8-db7e-4b94-ae99-5fbefa091c9a" />
-
+<img width="4160" height="2762" alt="image" src="https://github.com/user-attachments/assets/c56a69c8-db7e-4b94-ae99-5fbefa091c9a" />
+AWS Community Day Ahmedabad - Data Analytics Edition 2025
 
 ## AWS New Voices 2025
 ### A backbone for these initiatives 
@@ -104,6 +106,9 @@ This is a core story behind how I started contributing to the AWS Community in 2
 * Started getting a huge response for AWS Hackathons, competitions, learning programs and certifications
 * Most close to my heart: These efforts inspired young girl students to step-in and take ownership and coming ahead, taking initiatives, owning leadership, they started believing on their own leadership, their own strength.
 ##### This is a reward and feels like: yes we could make it!
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/0bc7b33f-476a-4d08-a56e-63b8d2221ac6" />
+AWS Certification Preperation sessions
 
 ### Thank You
 I am grateful to AWS Community, mentors, and supporters who made this path meaningful and looking forward to continue contribution as an active AWS Community Contributor, to inspire others to step-in.
