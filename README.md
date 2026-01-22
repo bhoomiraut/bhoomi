@@ -4,7 +4,7 @@ AWS Cloud Club Captain 24'
 > ***AWS Kiro** helped me structure this README.*
 
 # Hello Impact Makers👋, Bhoomi here.
-Bhoomi (वसुंधरा), rooted to the ground, my journey is about staying connected to the roots while empowering rural talents to grow beyond boundaries and reach clouds.
+Bhoomi (वसुंधरा), rooted to the ground, my journey is about staying connected to the roots while empowering rural talents to grow beyond boundaries and reach clouds.☁️
 
 ## I am a Former AWS Cloud Club Captain (2024) 
 at Ahilyanagar, India, with a goal to make cloud learning with AWS accessible for students who lacked exposure and support. I focused on cloud awarenes, and a confident leadership building from non- metro areas.
